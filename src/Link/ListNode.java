@@ -3,7 +3,7 @@ package Link;
 /**
  * 链表节点
  */
-public class ListNode {
+class ListNode {
     int val;
     ListNode next;
 

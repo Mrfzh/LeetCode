@@ -23,10 +23,8 @@ public class TwentyThree {
             return lists[0];
         }
 
-        ListNode first = lists[0];
-        lists[0] = lists[lists.length-1];
-        ListNode[] remain = Arrays.copyOf(lists, lists.length-1);
-        return mergeTwoLists(first, mergeKLists(remain));
+        ListNode[] remain = Arrays.copyOfRange(lists, 1, lists.length);
+        return mergeTwoLists(lists[0], mergeKLists(remain));
     }
 
     /**
