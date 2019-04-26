@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Link/TwentyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwentySix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +15,8 @@
     <session id="1688024446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -31,30 +31,30 @@
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="41" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="14101" />
+          <entry key="java" value="14635" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14101" />
+          <entry key="JAVA" value="14635" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -92,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Link/TwentyFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="1025">
               <caret line="82" selection-start-line="82" selection-end-line="88" selection-end-column="5" />
               <folding>
                 <element signature="method#swapPairs#0;class#TwentyFour#0" />
@@ -101,13 +101,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Link/TwentyFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+            <state relative-caret-position="162">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TwentySix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <folding>
+                <element signature="method#removeDuplicates#0;class#TwentySix#0" />
               </folding>
             </state>
           </provider>
@@ -160,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/Link/ListNode.java" />
         <option value="$PROJECT_DIR$/src/Link/TwentyFour.java" />
         <option value="$PROJECT_DIR$/src/Link/TwentyFive.java" />
+        <option value="$PROJECT_DIR$/src/TwentySix.java" />
       </list>
     </option>
   </component>
@@ -177,8 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,12 +204,6 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Link" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -204,7 +211,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556243990547" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556288730708" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,14 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwentyFive">
-    <configuration name="Eighteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Eighteen" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwentySix">
     <configuration name="FourFiveFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FourFiveFour" />
       <module name="Leetcode" />
@@ -266,20 +266,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwentySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwentySix" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Eighteen" />
       <item itemvalue="Application.FourFiveFour" />
       <item itemvalue="Application.Nineteen" />
       <item itemvalue="Application.TwentyFour" />
       <item itemvalue="Application.TwentyFive" />
+      <item itemvalue="Application.TwentySix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwentySix" />
         <item itemvalue="Application.TwentyFive" />
         <item itemvalue="Application.TwentyFour" />
         <item itemvalue="Application.Nineteen" />
         <item itemvalue="Application.FourFiveFour" />
-        <item itemvalue="Application.Eighteen" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +316,7 @@
     <frame x="-1927" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49368864" visible="true" weight="0.3335548" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49368864" visible="true" weight="0.338206" />
       <window_info id="Structure" order="1" sideWeight="0.50631136" side_tool="true" weight="0.28903654" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -492,9 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="160" column="15" lean-forward="true" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
-          <folding>
-            <element signature="method#threeSum#0;class#Fifteen#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,9 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="method#maxArea#0;class#Eleven#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -543,11 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#mergeKLists2#0;class#TwentyThree#0" />
-            <element signature="method#mergeTwoLists#0;class#TwentyThree#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,12 +551,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://D:/android源码/Activity启动相关/ActivityManagerService21.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Link/Nineteen.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -587,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Link/TwentyFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="1025">
           <caret line="82" selection-start-line="82" selection-end-line="88" selection-end-column="5" />
           <folding>
             <element signature="method#swapPairs#0;class#TwentyFour#0" />
@@ -597,10 +592,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Link/TwentyFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        <state relative-caret-position="162">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwentySix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding>
+            <element signature="method#removeDuplicates#0;class#TwentySix#0" />
           </folding>
         </state>
       </provider>
