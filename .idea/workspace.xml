@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Link/ThirtyTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Twenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EightFiveSix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +18,11 @@
           <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -34,30 +35,30 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="47" />
+          <entry key="java" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="47" />
+          <entry key="JAVA" value="50" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="java" value="17518" />
+          <entry key="java" value="18303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17518" />
+          <entry key="JAVA" value="18303" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
@@ -65,42 +66,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TwentyTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Twenty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="86" selection-start-line="86" selection-end-line="113" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#isValid#0;class#Twenty#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Link/ThirtyTwo.java">
+        <entry file="file://$PROJECT_DIR$/src/EightFiveSix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
-                <element signature="method#longestValidParentheses#0;class#ThirtyTwo#0" />
-                <element signature="method#isChildValue#0;class#ThirtyTwo#0" />
-                <element signature="method#isValid#0;class#ThirtyTwo#0" />
+                <element signature="method#scoreOfParentheses#0;class#EightFiveSix#0" />
               </folding>
             </state>
           </provider>
@@ -158,14 +130,15 @@
         <option value="$PROJECT_DIR$/src/TwentyTwo.java" />
         <option value="$PROJECT_DIR$/src/Twenty.java" />
         <option value="$PROJECT_DIR$/src/Link/ThirtyTwo.java" />
+        <option value="$PROJECT_DIR$/src/EightFiveSix.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1940" />
-    <option name="y" value="-20" />
-    <option name="width" value="1949" />
-    <option name="height" value="1059" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -187,12 +160,6 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Link" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -202,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556523922865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556633747324" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,7 +183,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirtyTwo">
+  <component name="RunManager" selected="Application.EightFiveSix">
+    <configuration name="EightFiveSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EightFiveSix" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Eighty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Eighty" />
       <module name="Leetcode" />
@@ -244,13 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwentySix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwentySix" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwentyTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwentyTwo" />
       <module name="Leetcode" />
@@ -259,19 +226,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwentySix" />
       <item itemvalue="Application.Eighty" />
       <item itemvalue="Application.TwentyTwo" />
       <item itemvalue="Application.Twenty" />
       <item itemvalue="Application.ThirtyTwo" />
+      <item itemvalue="Application.EightFiveSix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EightFiveSix" />
         <item itemvalue="Application.ThirtyTwo" />
         <item itemvalue="Application.Twenty" />
         <item itemvalue="Application.TwentyTwo" />
         <item itemvalue="Application.Eighty" />
-        <item itemvalue="Application.TwentySix" />
       </list>
     </recent_temporary>
   </component>
@@ -298,10 +265,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1563" height="845" extended-state="6" />
+    <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49368864" visible="true" weight="0.35215947" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49368864" visible="true" weight="0.36212623" />
       <window_info id="Structure" order="1" sideWeight="0.50631136" side_tool="true" weight="0.28903654" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,7 +282,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286517" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286517" />
@@ -365,13 +332,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
           <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="621" column="25" lean-forward="true" selection-start-line="621" selection-start-column="25" selection-end-line="621" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -525,13 +485,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Link/TwentyThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Link/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -546,11 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#removeNthFromEnd#0;class#Nineteen#0" />
-            <element signature="method#removeNthFromEnd_DoublePointer#0;class#Nineteen#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,10 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="method#mergeTwoLists#0;class#TwentyOne#0" />
-            <element signature="method#mergeTwoLists_recursion#0;class#TwentyOne#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -596,18 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwentyTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -619,17 +548,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="284" selection-start-line="284" selection-end-line="284" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwentyTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
-            <element signature="e#16779#16780#0" expanded="true" />
-            <element signature="e#16815#16816#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Link/ThirtyTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+          <folding>
+            <element signature="method#longestValidParentheses#0;class#ThirtyTwo#0" />
+            <element signature="method#isChildValue#0;class#ThirtyTwo#0" />
+            <element signature="method#isValid#0;class#ThirtyTwo#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Twenty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="86" selection-start-line="86" selection-end-line="113" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#isValid#0;class#Twenty#0" />
@@ -637,14 +586,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Link/ThirtyTwo.java">
+    <entry file="file://$PROJECT_DIR$/src/Link/TwentyThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
           <folding>
-            <element signature="method#longestValidParentheses#0;class#ThirtyTwo#0" />
-            <element signature="method#isChildValue#0;class#ThirtyTwo#0" />
-            <element signature="method#isValid#0;class#ThirtyTwo#0" />
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EightFiveSix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="method#scoreOfParentheses#0;class#EightFiveSix#0" />
           </folding>
         </state>
       </provider>
