@@ -1,4 +1,4 @@
-package Link;
+package Stack;
 
 public class ThirtyTwo {
     public static void main(String[] args) {
