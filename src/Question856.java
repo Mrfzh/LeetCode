@@ -1,4 +1,4 @@
-public class EightFiveSix {
+public class Question856 {
     public static void main(String[] args) {
         System.out.println(scoreOfParentheses2("()"));
         System.out.println(scoreOfParentheses2("(())"));

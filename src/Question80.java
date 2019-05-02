@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Eighty {
+public class Question80 {
     public static void main(String[] args) {
         int [] nums = {0,0,1,1,1,1,2,3,3};
         System.out.println(removeDuplicates(nums));

@@ -3,7 +3,7 @@ package Stack;
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
-public class Twenty {
+public class Question20 {
     public static void main(String[] args) {
         String s = "{[]}";
         System.out.println(isValid_Stack(s));

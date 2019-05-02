@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-public class TwentyTwo {
+public class Question22 {
     public static void main(String[] args) {
         System.out.println(generateParenthesis(4));
     }

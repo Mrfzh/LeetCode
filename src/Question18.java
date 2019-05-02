@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
-public class Eighteen {
+public class Question18 {
     public static void main(String[] args) {
         int [] nums = {1,0,-1,0,-2,2};
         System.out.println(fourSum(nums, 0));

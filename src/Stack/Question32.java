@@ -1,6 +1,6 @@
 package Stack;
 
-public class ThirtyTwo {
+public class Question32 {
     public static void main(String[] args) {
 //        System.out.println(longestValidParentheses2("(()"));
 //        System.out.println(longestValidParentheses2(")()())"));

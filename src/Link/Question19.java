@@ -5,7 +5,7 @@ import Link.ListNode;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Nineteen {
+public class Question19 {
     public static void main(String[] args) {
 
     }

@@ -1,6 +1,6 @@
 package Link;
 
-public class TwentyFour {
+public class Question24 {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         ListNode l2 = new ListNode(2);

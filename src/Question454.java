@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class FourFiveFour {
+public class Question454 {
     public static void main(String[] args) {
         int [] A = {0,1,-1};
         int [] B = {-1,1,0};

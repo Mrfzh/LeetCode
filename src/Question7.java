@@ -1,4 +1,4 @@
-public class Seven {
+public class Question7 {
     public static void main(String[] args) {
         System.out.println(reverse(1534236469));
     }

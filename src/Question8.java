@@ -1,6 +1,6 @@
 import java.util.LinkedHashMap;
 
-public class Eight {
+public class Question8 {
     public static void main(String[] args) {
         System.out.println(myAtoi("-91283472332"));
 

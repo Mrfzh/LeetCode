@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SixSevenEight {
+public class Question678 {
     public static void main(String[] args) {
         System.out.println(checkValidString("()"));
         System.out.println(checkValidString("(*)"));
