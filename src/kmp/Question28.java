@@ -1,3 +1,5 @@
+package kmp;
+
 public class Question28 {
     public static void main(String[] args) {
         System.out.println(strStr_KMP("hello", "ll"));

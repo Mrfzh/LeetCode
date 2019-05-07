@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question459.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question214.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,24 +43,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="74" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="59" />
-          <entry key="java" value="24297" />
+          <entry key="java" value="25101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24297" />
+          <entry key="JAVA" value="25101" />
           <entry key="PLAIN_TEXT" value="59" />
         </counts>
       </usages-collector>
@@ -71,7 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="100">
+              <caret line="100" column="45" lean-forward="true" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
               <folding>
                 <element signature="method#strStr#0;class#Question28#0" />
                 <element signature="method#strStr_KMP#0;class#Question28#0" />
@@ -81,10 +82,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Question459.java">
+        <entry file="file://$PROJECT_DIR$/src/Question214.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="150">
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+              <folding>
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1096#1097#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,14 +158,15 @@
         <option value="$PROJECT_DIR$/src/Question17.java" />
         <option value="$PROJECT_DIR$/src/Question28.java" />
         <option value="$PROJECT_DIR$/src/Question459.java" />
+        <option value="$PROJECT_DIR$/src/Question214.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2204" />
-    <option name="y" value="166" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="-1933" />
+    <option name="y" value="-13" />
+    <option name="width" value="1942" />
+    <option name="height" value="1052" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -191,7 +197,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557194711503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557217174530" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,14 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question459">
-    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question13" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question214">
     <configuration name="Question14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question14" />
       <module name="Leetcode" />
@@ -227,8 +226,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question214" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kmp.Question214" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question28" />
+      <option name="MAIN_CLASS_NAME" value="kmp.Question28" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -242,19 +248,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Question13" />
       <item itemvalue="Application.Question14" />
       <item itemvalue="Application.Question17" />
       <item itemvalue="Application.Question28" />
       <item itemvalue="Application.Question459" />
+      <item itemvalue="Application.Question214" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question214" />
         <item itemvalue="Application.Question459" />
         <item itemvalue="Application.Question28" />
         <item itemvalue="Application.Question17" />
         <item itemvalue="Application.Question14" />
-        <item itemvalue="Application.Question13" />
       </list>
     </recent_temporary>
   </component>
@@ -669,9 +675,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question459.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Question28.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="100">
+          <caret line="100" column="45" lean-forward="true" selection-start-line="100" selection-start-column="45" selection-end-line="100" selection-end-column="45" />
           <folding>
             <element signature="method#strStr#0;class#Question28#0" />
             <element signature="method#strStr_KMP#0;class#Question28#0" />
@@ -679,10 +693,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question459.java">
+    <entry file="file://$PROJECT_DIR$/src/Question214.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="150">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding>
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
