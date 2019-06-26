@@ -1,3 +1,5 @@
+package recursion;
+
 public class Question112 {
     public static void main(String[] args) {
 
