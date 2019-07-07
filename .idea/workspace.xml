@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bfs/Question127.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question127.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bfs/Question130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/Question129.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +19,7 @@
     <session id="1688024446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="75" />
+          <entry key="project.closed" value="76" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="14" />
           <entry key="project.open.time.10" value="2" />
@@ -33,7 +33,7 @@
           <entry key="project.open.time.28" value="3" />
           <entry key="project.open.time.29" value="5" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.30" value="4" />
+          <entry key="project.open.time.30" value="5" />
           <entry key="project.open.time.31" value="5" />
           <entry key="project.open.time.32" value="5" />
           <entry key="project.open.time.33" value="1" />
@@ -53,30 +53,30 @@
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="87" />
+          <entry key="project.opened" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="271" />
+          <entry key="java" value="273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="271" />
+          <entry key="JAVA" value="273" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="68" />
-          <entry key="java" value="62389" />
+          <entry key="java" value="63316" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="62389" />
+          <entry key="JAVA" value="63316" />
           <entry key="PLAIN_TEXT" value="68" />
         </counts>
       </usages-collector>
@@ -84,17 +84,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bfs/Question127.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/recursion/Question129.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#ladderLength#0;class#Question127#0" />
-                <element signature="method#isValid#0;class#Question127#0" />
-                <element signature="method#find#0;class#Question127#0" />
-              </folding>
+            <state relative-caret-position="-88">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bfs/Question130.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,10 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Question98.java" />
-        <option value="$PROJECT_DIR$/src/tree/Question98.java" />
-        <option value="$PROJECT_DIR$/src/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Question100.java" />
         <option value="$PROJECT_DIR$/src/recursion/Question100.java" />
         <option value="$PROJECT_DIR$/src/Question101.java" />
         <option value="$PROJECT_DIR$/src/recursion/Question101.java" />
@@ -177,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/double_pointer/Question125.java" />
         <option value="$PROJECT_DIR$/src/Question127.java" />
         <option value="$PROJECT_DIR$/src/bfs/Question127.java" />
+        <option value="$PROJECT_DIR$/src/Question129.java" />
+        <option value="$PROJECT_DIR$/src/recursion/Question129.java" />
+        <option value="$PROJECT_DIR$/src/Question130.java" />
+        <option value="$PROJECT_DIR$/src/bfs/Question130.java" />
       </list>
     </option>
   </component>
@@ -187,9 +190,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2276" />
-    <option name="y" value="26" />
-    <option name="width" value="1962" />
+    <option name="x" value="-2277" />
+    <option name="y" value="24" />
+    <option name="width" value="1963" />
     <option name="height" value="1071" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -200,7 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,13 +220,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="git&#9;null&#9;null" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562416643224" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562465384741" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -328,7 +331,7 @@
   <component name="ToolWindowManager">
     <frame x="-1927" y="-7" width="1563" height="845" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13904494" visible="true" weight="0.2730897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13904494" visible="true" weight="0.27707642" />
       <window_info id="Structure" order="1" sideWeight="0.86095506" side_tool="true" weight="0.2730897" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,20 +391,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack/Question20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/back/Question93.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -695,32 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="5635" column="5" lean-forward="true" selection-start-line="5635" selection-start-column="5" selection-end-line="5635" selection-end-column="5" />
-          <folding>
-            <element signature="e#161801#161802#0" expanded="true" />
-            <element signature="e#161873#161874#0" expanded="true" />
-            <element signature="e#174205#174206#0" expanded="true" />
-            <element signature="e#174276#174277#0" expanded="true" />
-            <element signature="e#194321#194322#0" expanded="true" />
-            <element signature="e#194364#194365#0" expanded="true" />
-            <element signature="e#195916#195917#0" expanded="true" />
-            <element signature="e#195987#195988#0" expanded="true" />
-            <element signature="e#197464#197465#0" expanded="true" />
-            <element signature="e#197503#197504#0" expanded="true" />
-            <element signature="e#204938#204939#0" expanded="true" />
-            <element signature="e#204985#204986#0" expanded="true" />
-            <element signature="e#210610#210611#0" expanded="true" />
-            <element signature="e#210685#210686#0" expanded="true" />
-            <element signature="e#217335#217336#0" expanded="true" />
-            <element signature="e#217391#217392#0" expanded="true" />
-            <element signature="e#222462#222463#0" expanded="true" />
-            <element signature="e#222515#222516#0" expanded="true" />
-            <element signature="e#225086#225087#0" expanded="true" />
-            <element signature="e#225135#225136#0" expanded="true" />
-            <element signature="e#244767#244768#0" expanded="true" />
-            <element signature="e#244811#244812#0" expanded="true" />
-            <element signature="e#247235#247236#0" expanded="true" />
-            <element signature="e#247279#247280#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,13 +704,27 @@
     <entry file="file://$PROJECT_DIR$/src/bfs/Question127.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#ladderLength#0;class#Question127#0" />
             <element signature="method#isValid#0;class#Question127#0" />
             <element signature="method#find#0;class#Question127#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Question129.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bfs/Question130.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
