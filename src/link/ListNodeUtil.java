@@ -1,7 +1,9 @@
+package link;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class LinkListUtil {
+public class ListNodeUtil {
 
     /**
      * 创建链表

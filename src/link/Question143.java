@@ -5,10 +5,10 @@ import java.util.*;
 public class Question143 {
     public static void main(String[] args) {
         int[] values = {1, 2, 3, 4};
-        ListNode head = LinkListUtil.buildLinkList(values);
-        LinkListUtil.printLinkList(head);
+        ListNode head = ListNodeUtil.buildLinkList(values);
+        ListNodeUtil.printLinkList(head);
         new Question143().reorderList_better(head);
-        LinkListUtil.printLinkList(head);
+        ListNodeUtil.printLinkList(head);
     }
 
     /**
