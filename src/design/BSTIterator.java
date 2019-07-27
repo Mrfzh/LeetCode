@@ -34,11 +34,11 @@ public class BSTIterator {
 //    private List<Integer> valList = new ArrayList<>();
 //    private int nextIndex = 0;
 //
-//    public BSTIterator(TreeNode root) {
+//    public BSTIterator(bfs.TreeNode root) {
 //        find(root);
 //    }
 //
-//    private void find(TreeNode root) {
+//    private void find(bfs.TreeNode root) {
 //        if (root == null) {
 //            return;
 //        }
