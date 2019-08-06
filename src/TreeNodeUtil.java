@@ -46,17 +46,22 @@ public class TreeNodeUtil {
      */
     public static void printTree(TreeNode head) {
         List<Integer> res = new ArrayList<>();
-        print(res, head);
+
+        LinkedList<TreeNode> queue = new LinkedList<>();
+        if (head != null) {
+            queue.add(head);
+        }
+        while (!queue.isEmpty()) {
+            TreeNode curr = queue.remove();
+            res.add(curr.val);
+            if (curr.left != null) {
+                queue.add(curr.left);
+            }
+            if (curr.right != null) {
+                queue.add(curr.right);
+            }
+        }
         System.out.println(res);
     }
 
-    private static void print(List<Integer> res, TreeNode head) {
-        if (head == null) {
-            return;
-        }
-
-        res.add(head.val);
-        print(res, head.left);
-        print(res, head.right);
-    }
 }
