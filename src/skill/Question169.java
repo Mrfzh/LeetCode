@@ -1,11 +1,11 @@
-package hash;
+package skill;
 
 import java.util.HashMap;
 
 public class Question169 {
     public static void main(String[] args) {
         int[] nums = {2,2,1,1,1,2,2};
-        System.out.println(new Question169().majorityElement(nums));
+        System.out.println(new Question169().majorityElement_2(nums));
     }
 
     /**
@@ -33,5 +33,28 @@ public class Question169 {
             }
         }
         return nums[0];
+    }
+
+    /**
+     * 摩尔投票法，O(n) 时间复杂度，但只需 O(1) 空间复杂度
+     */
+    public int majorityElement_2(int[] nums) {
+        int candidate = nums[0];    // 候选人
+        int count = 0;              // 候选人票数
+        for (int curr : nums) {
+            if (curr == candidate) {
+                count++;    // 候选人票数加 1（来了个自己人）
+            } else {
+                if (count == 0) {
+                    candidate = curr;    // 新的候选人（敌方已经没人了）
+                    count = 1;
+                } else {
+                    count--;    // 候选人票数减 1（和敌方的一人同归于尽）
+                }
+            }
+        }
+
+        // 最后留下来的就是最终赢家（兵力超过一半，其它人联合起来也不是对手）
+        return candidate;
     }
 }
