@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Question621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dfs/Question623.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dfs/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/Question628.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +24,7 @@
     <session id="1688024446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="185" />
+          <entry key="project.closed" value="186" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="26" />
           <entry key="project.open.time.10" value="2" />
@@ -75,24 +78,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="641" />
+          <entry key="java" value="645" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="641" />
+          <entry key="JAVA" value="645" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="111" />
-          <entry key="java" value="198114" />
+          <entry key="java" value="199021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="198114" />
+          <entry key="JAVA" value="199021" />
           <entry key="PLAIN_TEXT" value="111" />
         </counts>
       </usages-collector>
@@ -100,11 +103,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array/Question621.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/design/MyCircularQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="1025">
+              <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+              <folding>
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#1579#1580#0" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+                <element signature="e#1699#1700#0" expanded="true" />
+                <element signature="e#1749#1750#0" expanded="true" />
+                <element signature="e#1843#1844#0" expanded="true" />
+                <element signature="e#1875#1876#0" expanded="true" />
+                <element signature="e#1968#1969#0" expanded="true" />
+                <element signature="e#2038#2039#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dfs/Question623.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/math/Question628.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -154,15 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Question556.java" />
-        <option value="$PROJECT_DIR$/src/other/Question556.java" />
-        <option value="$PROJECT_DIR$/src/Question558.java" />
-        <option value="$PROJECT_DIR$/src/easy/Question558.java" />
-        <option value="$PROJECT_DIR$/src/Question560.java" />
-        <option value="$PROJECT_DIR$/src/hash/Question560.java" />
-        <option value="$PROJECT_DIR$/src/Question565.java" />
-        <option value="$PROJECT_DIR$/src/other/Question565.java" />
-        <option value="$PROJECT_DIR$/src/array/Question565.java" />
         <option value="$PROJECT_DIR$/src/Question559.java" />
         <option value="$PROJECT_DIR$/src/Question561.java" />
         <option value="$PROJECT_DIR$/src/easy/Question561.java" />
@@ -205,6 +229,15 @@
         <option value="$PROJECT_DIR$/src/tree/Question617.java" />
         <option value="$PROJECT_DIR$/src/Question621.java" />
         <option value="$PROJECT_DIR$/src/array/Question621.java" />
+        <option value="$PROJECT_DIR$/src/MyCircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/design/MyCircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/Question623.java" />
+        <option value="$PROJECT_DIR$/src/bfs/Question623.java" />
+        <option value="$PROJECT_DIR$/src/dfs/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/dfs/Question623.java" />
+        <option value="$PROJECT_DIR$/src/Question628.java" />
+        <option value="$PROJECT_DIR$/src/easy/Question628.java" />
+        <option value="$PROJECT_DIR$/src/math/Question628.java" />
       </list>
     </option>
   </component>
@@ -251,15 +284,15 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="git&#9;null&#9;null" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572329257510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572333445206" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dfs" />
       <recent name="easy" />
       <recent name="hash" />
       <recent name="stack" />
       <recent name="recursion" />
-      <recent name="design" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\Leetcode\src" />
@@ -278,14 +311,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question621">
-    <configuration name="Question598" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="skill.Question598" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question628">
     <configuration name="Question599" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.Question599" />
       <module name="Leetcode" />
@@ -314,20 +340,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.Question628" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Question598" />
       <item itemvalue="Application.Question599" />
       <item itemvalue="Application.Question605" />
       <item itemvalue="Application.Question611" />
       <item itemvalue="Application.Question621" />
+      <item itemvalue="Application.Question628" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question628" />
         <item itemvalue="Application.Question621" />
         <item itemvalue="Application.Question611" />
         <item itemvalue="Application.Question605" />
         <item itemvalue="Application.Question599" />
-        <item itemvalue="Application.Question598" />
       </list>
     </recent_temporary>
   </component>
@@ -432,34 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/double_pointer/Question524.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/skill/Question525.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion/Question526.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1250">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/Question530.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -776,6 +781,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dfs/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dfs/Question623.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design/MyCircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="59" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1843#1844#0" expanded="true" />
+            <element signature="e#1875#1876#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+            <element signature="e#2038#2039#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/Question628.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
