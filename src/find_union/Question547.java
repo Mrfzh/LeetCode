@@ -1,4 +1,4 @@
-package other;
+package find_union;
 
 public class Question547 {
     public static void main(String[] args) {
