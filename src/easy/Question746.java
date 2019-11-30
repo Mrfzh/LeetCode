@@ -1,3 +1,5 @@
+package easy;
+
 public class Question746 {
     public static void main(String[] args) {
         int[] cost = {1, 100, 1, 1, 1, 100, 1, 1, 100, 1};
