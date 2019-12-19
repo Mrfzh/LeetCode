@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e734d00e-2c82-49a3-96f1-14bd9448920f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/skill/Question775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/Question779.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +21,9 @@
     <session id="1688024446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="219" />
+          <entry key="project.closed" value="220" />
           <entry key="project.open.time.0" value="5" />
-          <entry key="project.open.time.1" value="33" />
+          <entry key="project.open.time.1" value="34" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -75,30 +75,30 @@
           <entry key="project.open.time.71" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="249" />
+          <entry key="project.opened" value="250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="753" />
+          <entry key="java" value="755" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="753" />
+          <entry key="JAVA" value="755" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="128" />
-          <entry key="java" value="235844" />
+          <entry key="java" value="237022" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="235844" />
+          <entry key="JAVA" value="237022" />
           <entry key="PLAIN_TEXT" value="128" />
         </counts>
       </usages-collector>
@@ -107,10 +107,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/skill/Question775.java">
+        <entry file="file://$PROJECT_DIR$/src/recursion/Question779.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            <state relative-caret-position="400">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,9 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/easy/Question709.java" />
-        <option value="$PROJECT_DIR$/src/double_pointer/Question713.java" />
-        <option value="$PROJECT_DIR$/src/design/MyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/Question714.java" />
         <option value="$PROJECT_DIR$/src/Question712.java" />
         <option value="$PROJECT_DIR$/src/dp/Question712.java" />
@@ -219,6 +220,9 @@
         <option value="$PROJECT_DIR$/src/easy/Question771.java" />
         <option value="$PROJECT_DIR$/src/Question775.java" />
         <option value="$PROJECT_DIR$/src/skill/Question775.java" />
+        <option value="$PROJECT_DIR$/src/Question777.java" />
+        <option value="$PROJECT_DIR$/src/Question779.java" />
+        <option value="$PROJECT_DIR$/src/recursion/Question779.java" />
       </list>
     </option>
   </component>
@@ -229,10 +233,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1934" />
-    <option name="y" value="-14" />
-    <option name="width" value="1943" />
-    <option name="height" value="1053" />
+    <option name="x" value="-1935" />
+    <option name="y" value="-15" />
+    <option name="width" value="1944" />
+    <option name="height" value="1054" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -258,14 +262,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="git&#9;null&#9;null" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576036024566" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576572943907" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -292,21 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question775">
-    <configuration name="Question763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Question763" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question767" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Question767" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question779">
     <configuration name="Question769" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="double_pointer.Question769" />
       <module name="Leetcode" />
@@ -328,20 +318,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question777" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question777" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question779" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.Question779" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Question763" />
-      <item itemvalue="Application.Question767" />
       <item itemvalue="Application.Question769" />
       <item itemvalue="Application.Question771" />
       <item itemvalue="Application.Question775" />
+      <item itemvalue="Application.Question777" />
+      <item itemvalue="Application.Question779" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question779" />
+        <item itemvalue="Application.Question777" />
         <item itemvalue="Application.Question775" />
         <item itemvalue="Application.Question771" />
         <item itemvalue="Application.Question769" />
-        <item itemvalue="Application.Question767" />
-        <item itemvalue="Application.Question763" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +378,7 @@
     <frame x="-1927" y="-7" width="1563" height="845" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13061798" visible="true" weight="0.28770763" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.13061798" visible="true" weight="0.29169434" />
       <window_info id="Structure" order="1" sideWeight="0.869382" side_tool="true" weight="0.26245847" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -446,20 +450,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dfs/Question688.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/Question686.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hash/Question692.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -792,8 +782,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/skill/Question775.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
+        <state relative-caret-position="143">
           <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question777.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion/Question779.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
